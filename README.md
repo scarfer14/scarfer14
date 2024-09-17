@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Brian </h1>
 <p>I'm currently studying Digital Forensics, with a focus on network security.  </p>
+<p> I'm pasionate about Arduino. I use this space to share some of my current and future projects. </p>
+<p> Feel free to check out my repositories and see what I'm working on </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
